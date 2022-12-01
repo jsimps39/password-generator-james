@@ -13,7 +13,7 @@ using the following criteria: lowercase letters, uppercase letters, numbers, and
 special characters. The password creator had to use the criteria that the user chose to make their custom password.
 
 #### Link to project
-[link]()
+[link](https://jsimps39.github.io/password-generator-james/)
 
 #### Visuals
 The following is a visual image of what the webpage looks like now
